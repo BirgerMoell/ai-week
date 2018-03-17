@@ -1,2 +1,1 @@
-# ai-week
-Stockholm AI week
+# AI week
